@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\.5ed5ce7153b7399a36e672b679c7ba425858b724-audit.json",
+    "files": [
+        {
+            "date": 1698829331889,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-01-11-15-error.log",
+            "hash": "6db2b02e8c1fca67d156da698e7b2263c150284071727c31d96192048c62151a"
+        },
+        {
+            "date": 1698832801007,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-01-11-16-error.log",
+            "hash": "15264e327224ec26b23ad26b5a517ffcaa2054a22a2a43a1145fd24e0c028ee3"
+        },
+        {
+            "date": 1698848502503,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-01-11-20-error.log",
+            "hash": "455df3b5cb7d9cfa6750a2379f89db175cac0f76ad29be0a8a299b7c83e022ff"
+        },
+        {
+            "date": 1698850963263,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-01-11-21-error.log",
+            "hash": "25fe8407971b4e02c97f7cf5f61b9c5d225e9e14cbc564f23f11a32f47876365"
+        },
+        {
+            "date": 1698855213770,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-01-11-22-error.log",
+            "hash": "e96a158bc218191ce92816996cc7e645016f65f4b2b768421bc00bce13d94303"
+        },
+        {
+            "date": 1698858398066,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-01-11-23-error.log",
+            "hash": "4d9028be621a6817986adb73656098dcef8d71d6b0259f46d682f9eea1846654"
+        },
+        {
+            "date": 1698883641400,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-02-11-06-error.log",
+            "hash": "93d7ff514e318792d6a98a5cf5c08c4bdb6f2729855ffbe69c6ce41eb2b16f14"
+        },
+        {
+            "date": 1698891570862,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-02-11-08-error.log",
+            "hash": "14637c47c377186f132b344bafbc38239c586cd1ad1d6141ed4e2552890e0435"
+        },
+        {
+            "date": 1698894088121,
+            "name": "I:\\Fiverr_Marketplace\\CANADA\\monder619\\rental-car-v1\\logs\\errors\\2023-02-11-09-error.log",
+            "hash": "619d0b3a7c5895345efb83b15af8e15e9a60093a6c0c984c7f7e359aebb4f597"
+        }
+    ],
+    "hashType": "sha256"
+}
