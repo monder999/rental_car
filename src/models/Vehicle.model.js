@@ -3,7 +3,7 @@ import { sequelize } from '../config/db.js'
 import { Sequelize, DataTypes } from 'sequelize'
 import UserModel from './User.model.js'
 
-const VehicleModel = sequelize.define('Vehicle', {
+export const VehicleModel = sequelize.define('Vehicle', {
   userId: {
     type: DataTypes.INTEGER,
     allowNull: false,

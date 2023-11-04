@@ -5,10 +5,13 @@
   "type": "module",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "NODE_ENV=production node app.js",
+    "dev": "NODE_ENV=development nodemon app.js",
+    "data:import": "node src/config/seeder",
+    "data:destroy": "node src/config/seeder -d",
+    "data:test": "node _temp"
   },
-  "author": "NADER",
+  "author": "Nazmul Huda",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
