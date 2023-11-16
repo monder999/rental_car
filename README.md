@@ -2,18 +2,17 @@
 
 #### `Strucutre`:
 Ce projet est une application web de location de voiture qui permet aux utilisateurs de réserver des véhicules, de laisser des avis, effectuer des paiements et gérer les réservations. Il a été développé dans le but de fournir une plateforme conviviale pour la location de voitures.
-avons créé 6 tableaux : user, roles, vehicle, appointment, review, payment. 
+
+Nous avons créé 6 tableaux : user, roles, vehicle, appointment, review, payment. 
 
 •	Pour ma part, Zaoui Nader 2706068, j'ai travaillé sur les tables suivantes : Vehicales et Appointments. 
-
 •	Quant à Rachdaoui Amine 2700676 , il a travaillé sur les tables suivantes : Payments et Reviews. 
-
 •	Nous avons développé les tables d’users et roles ensemble. 
 
 
-Le nom du repository de notre projet est : Rental_car.
+Le nom du repository de notre projet sur github est : Rental_car.
 
- Vous trouverez ci-joint le lien de notre GitHub
+ Vous trouverez ci-joint le lien de notre GitHub:
 
  ## Fonctionnalités
 
