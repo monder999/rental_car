@@ -5,8 +5,8 @@ Ce projet est une application web de location de voiture qui permet aux utilisat
 
 Nous avons créé 6 tableaux : user, roles, vehicle, appointment, review, payment. 
 
-•	Pour ma part, Zaoui Nader 2706068, j'ai travaillé sur les tables suivantes : Vehicales et Appointments. 
-•	Quant à Rachdaoui Amine 2700676 , il a travaillé sur les tables suivantes : Payments et Reviews. 
+•	Pour ma part, Zaoui Nader , j'ai travaillé sur les tables suivantes : Vehicales et Appointments. 
+•	Quant à Rachdaoui Amine  , il a travaillé sur les tables suivantes : Payments et Reviews. 
 •	Nous avons développé les tables d’users et roles ensemble. 
 
 
